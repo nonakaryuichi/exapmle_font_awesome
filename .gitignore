@@ -1,0 +1,6 @@
+# sass and compass
+.sass-cache/
+
+# sublime project
+font-awesome.sublime-project
+font-awesome.sublime-workspace

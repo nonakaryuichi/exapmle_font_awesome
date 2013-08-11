@@ -1,0 +1,27 @@
+//Override Font Awesome path 
+$FontAwesomePath: "../fonts/font-awesome";
+
+//import font-awesome
+@import "font-awesome/variables";
+@import "font-awesome/mixins";
+@import "font-awesome/path";
+@import "font-awesome/core";
+@import "font-awesome/extras";
+@import "font-awesome/icons";
+
+@import "clearfix";
+
+a
+{
+	text-decoration: none;
+
+	&:hover
+	{
+		color: #ff0000;
+	}
+
+	&:active
+	{
+		color: #cccccc;
+	}
+}

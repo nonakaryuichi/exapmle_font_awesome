@@ -1,0 +1,416 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"in",
+				"inset_custom_post_type_feed_to_main_feed.php"
+			],
+			[
+				"remove",
+				"remove_dashboard_widgets.php"
+			],
+			[
+				"remo",
+				"remove_admin_bar.php"
+			],
+			[
+				"h",
+				"tmp_html"
+			],
+			[
+				"font-",
+				"font-awesome.scss"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"get",
+				"get_poststatus.php"
+			],
+			[
+				"return",
+				"return_author_article.php"
+			],
+			[
+				"shortcode",
+				"shortcode_atts"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "config.rb",
+			"settings":
+			{
+				"buffer_size": 116,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Compass/Compass.sublime-build",
+	"command_palette":
+	{
+		"height": 49.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"paca",
+				"Package Control: Install Package"
+			],
+			[
+				"Paca",
+				"Package Control: Install Package"
+			],
+			[
+				":w",
+				":w - Save"
+			]
+		],
+		"width": 507.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/nonakaryuichi/Desktop/font-awesome/css/font-awesome.css",
+		"/Projects/web_acceleration_sample/config.rb",
+		"/Projects/blog.classmethod.jp/themes/regeneration/taxonomy-referencecategory.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/taxonomy-referencecat.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/plugins/taxonomies/referencecat.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/plugins/taxonomies",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/plugins/post_types/portals.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/plugins/post_types/projects.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/plugins/post_types/edge.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/plugins/post_types/jqm.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/plugins/post_types/slides.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/plugins/post_types/news.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/plugins/post_types/writing.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/modules/tags/meta.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/footer.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/config.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/header.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/index.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/plugins/post_types/matome.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/plugins/post_types/reference",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/plugins/dashboard_widgets/core.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/plugins/post_metas/custom_comment.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/plugins/post_metas/custom_css.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/plugins/post_metas/custom_js.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/plugins/post_metas/edge_js.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/plugins/post_metas/amazon_afi_code.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/core/filters/set_custom_post_type_feed.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/core/filters/inset_custom_post_type_feed_to_main_feed.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/plugins/post_metas/portal_options.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/plugins/post_metas/project_background_url.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/plugins/post_metas/writing_url.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/core/filters/remove_admin_bar.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/core/filters/change_excerpt_mblength.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/core/filters/remove_dashboard_widgets.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/plugins/dashboard_widgets/custom_widget.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/core/filters/remove_menu.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/plugins/quicktags/core.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/core/filters/remove_add_auto_tags.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/plugins/quicktags/add_slide_tag.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/core/filters/jpeg_quality.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/core/filters/setup_media_size.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/core/filters/remove_head_tag.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/core/filters/disable_visual_editor.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/plugins/disable_visual_editor.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/core/filters/remove_metabox.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/core/filters",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/core/filter",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/core/functions/template_path_filter.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/scss/plugins/font-awesome/scss/_variables.scss",
+		"/Projects/blog.classmethod.jp/themes/regeneration/modules/tags/style.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/scss/_vars.scss",
+		"/Projects/blog.classmethod.jp/themes/regeneration/scss/_clearfix.scss",
+		"/Projects/blog.classmethod.jp/themes/regeneration/scss/modules/_clearfix.scss",
+		"/Projects/blog.classmethod.jp/themes/regeneration/modules/tag",
+		"/Projects/blog.classmethod.jp/themes/regeneration/scss/_fonts.scss",
+		"/Projects/blog.classmethod.jp/themes/regeneration/scss/vars.scss",
+		"/Projects/blog.classmethod.jp/themes/regeneration/style.css",
+		"/Users/nonakaryuichi/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Projects/blog.classmethod.jp/themes/blog/core/dashboard.php",
+		"/Projects/blog.classmethod.jp/themes/blog/core/posttype.php",
+		"/Projects/blog.classmethod.jp/themes/blog/core/profile.php",
+		"/Projects/blog.classmethod.jp/themes/blog/core/shortcode.php",
+		"/Projects/blog.classmethod.jp/themes/blog/core/sidebar.php",
+		"/Projects/blog.classmethod.jp/themes/blog/setting/posttype_archive.php",
+		"/Projects/blog.classmethod.jp/themes/blog/setting/posttype.php",
+		"/Projects/blog.classmethod.jp/themes/blog/functions.php",
+		"/Projects/blog.classmethod.jp/themes/blog/setting/dashboard.php",
+		"/Projects/blog.classmethod.jp/themes/blog/core/theme_setting.php",
+		"/Projects/blog.classmethod.jp/themes/blog/core/taxonomy.php",
+		"/Projects/blog.classmethod.jp/themes/blog/core/postmeta.php",
+		"/Projects/blog.classmethod.jp/themes/blog/core/conversion_language.php",
+		"/Projects/blog.classmethod.jp/themes/blog/core/action_and_filter.php",
+		"/Projects/blog.classmethod.jp/themes/blog/taxonomy.php",
+		"/Projects/blog.classmethod.jp/themes/blog/archive.php",
+		"/Projects/blog.classmethod.jp/themes/blog/taxonomy-referencecat.php",
+		"/Projects/blog.classmethod.jp/themes/blog/index.php",
+		"/Projects/blog.classmethod.jp/themes/blog/archive-references.php",
+		"/Projects/blog.classmethod.jp/themes/blog/single-references.php",
+		"/Projects/blog.classmethod.jp/themes/blog/single.php",
+		"/Projects/blog.classmethod.jp/themes/blog/module/tags/script.php",
+		"/Projects/blog.classmethod.jp/themes/blog/scss/module/_search.scss",
+		"/Projects/blog.classmethod.jp/themes/blog/setting/theme_setting.php",
+		"/Projects/blog.classmethod.jp/themes/blog/taxonomy-series.php",
+		"/Projects/blog.classmethod.jp/themes/blog/setting/taxonomy.php",
+		"/Projects/blog.classmethod.jp/themes/blog/single-reference.php",
+		"/Projects/blog.classmethod.jp/themes/blog/footer.php",
+		"/Projects/blog.classmethod.jp/themes/blog/archive-portal.php",
+		"/Projects/blog.classmethod.jp/themes/blog/single-portal.php",
+		"/Projects/blog.classmethod.jp/themes/blog/archive-book.php",
+		"/Projects/blog.classmethod.jp/themes/blog/archive-reference.php",
+		"/Projects/blog.classmethod.jp/themes/blog/scss/module/_article_list.scss",
+		"/Projects/blog.classmethod.jp/themes/blog/scss/module/_editable.scss",
+		"/Projects/blog.classmethod.jp/themes/blog/scss/_common.scss",
+		"/Projects/blog.classmethod.jp/themes/blog/scss/module/_article.scss",
+		"/Projects/blog.classmethod.jp/themes/blog/config.rb",
+		"/Projects/blog.classmethod.jp/themes/blog/scss/style.scss",
+		"/Projects/blog.classmethod.jp/themes/blog/module/tags/meta.php",
+		"/Projects/blog.classmethod.jp/themes/blog/scss/module/_author.scss",
+		"/Projects/blog.classmethod.jp/themes/blog/scss/module/_button.scss",
+		"/Projects/blog.classmethod.jp/themes/blog/author.php",
+		"/Projects/blog.classmethod.jp/themes/blog/core/shortcodes/get_weekranking.php",
+		"/Projects/blog.classmethod.jp/themes/blog/core/shortcodes/get_authorcomment.php",
+		"/Projects/blog.classmethod.jp/themes/blog/core/shortcodes/return_ranking_article.php",
+		"/Projects/blog.classmethod.jp/themes/blog/core/shortcodes/matome_style.php",
+		"/Projects/blog.classmethod.jp/themes/blog/core/shortcodes/return_author_article.php",
+		"/Projects/blog.classmethod.jp/themes/blog/core/shortcodes/get_poststatus.php",
+		"/Projects/blog.classmethod.jp/themes/blog/core/shortcodes/return_advent_article.php",
+		"/Projects/blog.classmethod.jp/themes/blog/core/shortcodes/get_jsdoit.php",
+		"/Projects/blog.classmethod.jp/themes/blog/core/shortcodes/ios_style.php",
+		"/Projects/blog.classmethod.jp/themes/blog/core/shortcodes/edge_style.php",
+		"/Projects/blog.classmethod.jp/themes/blog/core/shortcodes/get_wonderfl.php",
+		"/Projects/blog.classmethod.jp/themes/blog/core/shortcodes/get_draft.php",
+		"/Projects/blog.classmethod.jp/themes/blog/core/shortcodes/return_child_page_list.php",
+		"/Projects/blog.classmethod.jp/themes/blog/core/shortcodes/return_permalink.php",
+		"/Projects/blog.classmethod.jp/themes/blog/core/shortcodes/home_link.php",
+		"/Projects/blog.classmethod.jp/themes/blog/setting/shortcode.php",
+		"/Projects/blog.classmethod.jp/themes/blog/module/header.php",
+		"/Projects/blog.classmethod.jp/themes/blog/plugins/user_status.php",
+		"/Projects/blog.classmethod.jp/themes/blog/header.php",
+		"/Projects/blog.classmethod.jp/themes/blog/js/common/jquery.plugins.js",
+		"/Projects/blog.classmethod.jp/themes/blog/js/common/common.js",
+		"/Projects/blog.classmethod.jp/themes/blog/single-matome.php",
+		"/Projects/blog.classmethod.jp/themes/blog/single-book.php",
+		"/Projects/blog.classmethod.jp/themes/blog/single-news.php",
+		"/Projects/blog.classmethod.jp/themes/blog/single-writing.php",
+		"/Projects/blog.classmethod.jp/themes/blog/module/loop/single-item.php",
+		"/Projects/blog.classmethod.jp/themes/blog/authors.php",
+		"/Projects/blog.classmethod.jp/themes/blog/quarter_ranking.php"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"1e2323",
+			";\n",
+			";",
+			"true",
+			"references",
+			">';\n",
+			"og:image",
+			"}",
+			"style"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "config.rb",
+					"settings":
+					{
+						"buffer_size": 116,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								116,
+								116
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 102.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 235.0,
+	"status_bar_visible": true
+}
